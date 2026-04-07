@@ -1,4 +1,8 @@
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2A93F7&vCenter=true&multiline=true&random=true&lines=Hi%F0%9F%91%8B!+I'm+Hoang+Quy" alt="Typing SVG" /></a></h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2A93F7&vCenter=true&multiline=true&random=true&lines=Hi%F0%9F%91%8B!+I'm+Hoang+Quy" />
+  </a>
+</p>
 
 <h3 align="center">Software Engineer</h3>
 <p align="center">
