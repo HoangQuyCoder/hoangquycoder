@@ -1,10 +1,10 @@
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2A93F7&vCenter=true&multiline=true&random=true&width=435&lines=Hi%F0%9F%91%8B!+I'm+Hoang+Quy" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2A93F7&vCenter=true&multiline=true&random=true&lines=Hi%F0%9F%91%8B!+I'm+Hoang+Quy" alt="Typing SVG" /></a></h3>
 
 <h3 align="center">Software Engineer</h3>
 <p align="center">
-  <a href="https://dharshi.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/portfolio-brown?style=for-the-badge&logo=codecrafters"></a>  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dharshi-balasubramaniyam-47b193243/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/dharshib"><img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://hoangquy.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/portfolio-brown?style=for-the-badge&logo=codecrafters"></a>  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/l%C3%AA-ho%C3%A0ng-qu%C3%BD-762ba3389/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/hoangquyle11"><img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank"></a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:hoangquyle11@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </p>
 
