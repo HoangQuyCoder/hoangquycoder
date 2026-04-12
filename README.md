@@ -15,7 +15,7 @@
 
 <p align="center"> ✨ Backend Developer dedicated to building scalable, high-performance web applications. </p>
 <p align="center"> ✨ Technical Core: Expert in Java/Spring Boot and Node.js ecosystems, with a deep focus on architecting robust backends and dynamic React.js frontends. </p>
-<p align="center"> ✨ Infrastructure & DevOps: Experienced in containerization and orchestration using CI/CD Docker and Kubernetes to streamline deployment pipelines. </p>
+<p align="center"> ✨ Infrastructure & DevOps: Experienced in containerization and orchestration using CI/CD, Docker and Kubernetes to streamline deployment pipelines. </p>
 <p align="center"> ✨ Collaborative Problem Solver: Proven track record in open-source contributions and hackathons, combining technical rigor with a commitment to effective team communication. </p>
 <p align="center"> ✨ Lifelong Learner: Constantly evolving with the tech landscape to implement industry best practices and clean code principles. </p>
 
